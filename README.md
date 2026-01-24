@@ -15,9 +15,17 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maynaou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maynaou&locale=en&hide_title=false&layout=compact&card_width=550&langs_count=12&theme=radical&hide_border=false" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maynaou&theme=redical" width="800" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maynaou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=false&card_width=530" height="150" alt="stats graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maynaou&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=12&theme=radical&hide_border=false" height="150" alt="languages graph" /> <br>
+
+</div>
+
+<div align="center">
+  <img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=maynaou&theme=redical"
+  width="900"
+/>
+
 </div>
 
 ###
